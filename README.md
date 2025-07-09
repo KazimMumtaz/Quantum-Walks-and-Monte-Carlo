@@ -9,7 +9,7 @@ QWalkers
 |-------------------|----------------------|
 | Kazim Mumtaz      | WISER1234sa6         |
 | Precious Amadi    | gst-gYOMdGWjG5BiqDJ  |
-| Nada              | WISER345678ed        |
+| Nada A. Ismail    | gst-tixcW4n1c7QE17S  |
 
 ## 🧾 Project Summary
 
