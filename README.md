@@ -8,7 +8,7 @@ QWalkers
 | Name              | WISER Enrollment ID  |
 |-------------------|----------------------|
 | Kazim Mumtaz      | WISER1234sa6         |
-| Amadi             | gst-gYOMdGWjG5BiqDJ  |
+| Precious Amadi    | gst-gYOMdGWjG5BiqDJ  |
 | Nada              | WISER345678ed        |
 
 ## 🧾 Project Summary
