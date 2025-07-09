@@ -13,7 +13,9 @@ QWalkers
 
 ## 🧾 Project Summary
 
-This project, developed in partnership with NNL, builds on the foundations of the Quantum Fourier Transform and its potential for exponential speed-up over classical methods.
+Explore how quantum circuits can simulate complex systems through a Galton Box-style Monte Carlo problem, an approach relevant to high-dimensional challenges like particle transport and quantum systems.
+This project builds on the foundations of the Quantum Fourier Transform and its potential for exponential speed-up over classical methods.​​
+
 ## 📊 Project Presentation Deck
 [Deck Link](#) <!-- Replace # with actual link -->
 
