@@ -5,11 +5,11 @@ QWalkers
 
 ## 🧑‍💻 Team Members
 
-| Name              | WISER Enrollment ID  |
-|-------------------|----------------------|
-| Kazim Mumtaz      | WISER1234sa6         |
-| Precious Amadi    | gst-gYOMdGWjG5BiqDJ  |
-| Nada A. Ismail    | gst-tixcW4n1c7QE17S  |
+| Name              
+|-------------------
+| Kazim Mumtaz                |
+| Precious Amadi     
+| Nada A. Ismail    
 
 ## 🧾 Project Summary
 
