@@ -5,11 +5,11 @@ QWalkers
 
 ## 🧑‍💻 Team Members
 
-| Name              
+| ##Name              
 |-------------------
-| Kazim Mumtaz                |
-| Precious Amadi     
-| Nada A. Ismail    
+|# Kazim Mumtaz                |
+  
+| #Kainat Fatima    
 
 ## 🧾 Project Summary
 
