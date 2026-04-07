@@ -9,7 +9,7 @@ QWalkers
 |-------------------
 |# Kazim Mumtaz                |
   
-| #Kainat Fatima    
+    
 
 ## 🧾 Project Summary
 
